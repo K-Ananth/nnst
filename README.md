@@ -1,2 +1,2 @@
 # nnst
-(you can read this application here.)(https://github.com/K-Ananth/nnst/nnst/main.py)
+(you can read this application here.)(https://share.streamlit.io/K-Ananth/nnst/main.py)
